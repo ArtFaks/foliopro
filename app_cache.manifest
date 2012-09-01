@@ -1,0 +1,12 @@
+CACHE MANIFEST
+#Date built: <?php echo date('U') ?> 
+
+CACHE:
+#Core application files
+index.html
+zepto.js
+main.js
+style.css
+bg.jpg
+
+#Portfolio images
